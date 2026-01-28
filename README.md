@@ -30,7 +30,7 @@ The goal of this project is to:
 ## Architecture Diagram
 The complete architecture is shown below:
 
-![Architecture Diagram](architecture/Architecture Diagram.jpeg)
+![Architecture Diagram](architecture/Architecture-Diagram.jpeg)
 
 
 ## AWS Services Used
